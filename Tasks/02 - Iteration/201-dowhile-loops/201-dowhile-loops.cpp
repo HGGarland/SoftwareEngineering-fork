@@ -14,5 +14,3 @@ int main()
 
     printf("Finished: i = %d\n", i);
 }
-
-
